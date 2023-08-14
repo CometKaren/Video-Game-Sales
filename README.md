@@ -7,9 +7,9 @@ A review of Shooter vs. Sports Games was done.
 3. More sports games are sold for free than shooter games & some sports games sell for much higher values than shooter games.
 
 Directory Structure  
-data/ - includes where and which data set to use
-munge/ - includes transformations used
-src/ - includes aggregations used
-reports/ - includes dashboard report
+data/ - includes where and which data set to use  
+munge/ - includes transformations used  
+src/ - includes aggregations used  
+reports/ - includes dashboard report  
 
 This was created for a course assignment.
